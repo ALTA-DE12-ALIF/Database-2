@@ -10,6 +10,7 @@ DROP TABLE payment_method;
 DROP TABLE payment_description;
 DROP TABLE User2;
 DROP TABLE User_alamat;
+DROP TABLE shipping;
 
 -- CREATE --
     CREATE TABLE Product
